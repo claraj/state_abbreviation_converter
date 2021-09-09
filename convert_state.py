@@ -32,7 +32,7 @@ def main():
             convert_abbreviation_to_state(stateAbbr)
         
         
-        elif choice==  "3":
+        elif choice== "3":
             break
         else:
             print('try again')
